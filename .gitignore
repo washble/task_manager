@@ -1,6 +1,7 @@
 # My Setting
 dist
 src/public/images
+_td_database
 
 # Security
 package-lock.json
